@@ -9,7 +9,7 @@ html_content = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Message Sender</title>
+    <title>Anish Message Sender</title>
     <style>
         body {
             background-color: black;
